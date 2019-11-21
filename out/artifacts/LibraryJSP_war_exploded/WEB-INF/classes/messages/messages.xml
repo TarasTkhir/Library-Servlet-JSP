@@ -1,0 +1,266 @@
+<messages>
+    <message>
+        <message-key>was-deleted</message-key>
+        <message-value>was DELETED</message-value>
+    </message>
+    <message>
+        <message-key>cannot-delete-connection-problem</message-key>
+        <message-value>Connection problem! Cannot delete at that moment.</message-value>
+    </message>
+    <message>
+        <message-key>name-or-password-is-wrong</message-key>
+        <message-value>User name or password is wrong.</message-value>
+    </message>
+    <message>
+        <message-key>no-librarian-or-admin-found</message-key>
+        <message-value>Nothing was found. No administrator or librarian with ID :</message-value>
+    </message>
+    <message>
+        <message-key>failed-connection-to-create</message-key>
+        <message-value>Connection wit DB failed. Cannot add</message-value>
+    </message>
+    <message>
+        <message-key>login-already-exist</message-key>
+        <message-value>Someone with this login already exist, or data was wrong. Login:</message-value>
+    </message>
+    <message>
+        <message-key>was-saved</message-key>
+        <message-value>was saved! Login:</message-value>
+    </message>
+    <message>
+        <message-key>Admin</message-key>
+        <message-value>Admin</message-value>
+    </message>
+    <message>
+        <message-key>all-libs-and-admins</message-key>
+        <message-value>All librarian's and admin's:</message-value>
+    </message>
+    <message>
+        <message-key>ID</message-key>
+        <message-value>ID</message-value>
+    </message>
+    <message>
+        <message-key>Role</message-key>
+        <message-value>Role</message-value>
+    </message>
+    <message>
+        <message-key>first-name</message-key>
+        <message-value>First name</message-value>
+    </message>
+    <message>
+        <message-key>last-name</message-key>
+        <message-value>Last name</message-value>
+    </message>
+    <message>
+        <message-key>login</message-key>
+        <message-value>Login</message-value>
+    </message>
+    <message>
+        <message-key>update</message-key>
+        <message-value>Update</message-value>
+    </message>
+    <message>
+        <message-key>delete</message-key>
+        <message-value>Delete</message-value>
+    </message>
+    <message>
+        <message-key>previous</message-key>
+        <message-value>Previous</message-value>
+    </message>
+    <message>
+        <message-key>next</message-key>
+        <message-value>Next</message-value>
+    </message>
+    <message>
+        <message-key>add</message-key>
+        <message-value>Add</message-value>
+    </message>
+    <message>
+        <message-key>administrator</message-key>
+        <message-value>Administrator</message-value>
+    </message>
+    <message>
+        <message-key>librarian</message-key>
+        <message-value>Librarian</message-value>
+    </message>
+    <message>
+        <message-key>confirm</message-key>
+        <message-value>Confirm</message-value>
+    </message>
+    <message>
+        <message-key>password</message-key>
+        <message-value>Password</message-value>
+    </message>
+    <message>
+        <message-key>cancel</message-key>
+        <message-value>Cancel</message-value>
+    </message>
+    <message>
+        <message-key>change-user</message-key>
+        <message-value>Change User</message-value>
+    </message>
+    <message>
+        <message-key>back-to-previous-page</message-key>
+        <message-value>Back to Previous Page</message-value>
+    </message>
+    <message>
+        <message-key>error-code</message-key>
+        <message-value>Error code</message-value>
+    </message>
+    <message>
+        <message-key>login-page</message-key>
+        <message-value>Login Page</message-value>
+    </message>
+    <message>
+        <message-key>library-service</message-key>
+        <message-value>Library service</message-value>
+    </message>
+    <message>
+        <message-key>enter-login</message-key>
+        <message-value>Enter login</message-value>
+    </message>
+    <message>
+        <message-key>enter-password</message-key>
+        <message-value>Enter password</message-value>
+    </message>
+    <message>
+        <message-key>log-in</message-key>
+        <message-value>LogIn</message-value>
+    </message>
+    <message>
+        <message-key>save-login</message-key>
+        <message-value>Save login</message-value>
+    </message>
+    <message>
+        <message-key>login-cannot-be-empty</message-key>
+        <message-value>Login cannot be empty!</message-value>
+    </message>
+    <message>
+        <message-key>logout</message-key>
+        <message-value>Logout</message-value>
+    </message>
+    <message>
+        <message-key>hello</message-key>
+        <message-value>Hello</message-value>
+    </message>
+    <message>
+        <message-key>visitors</message-key>
+        <message-value>Visitors</message-value>
+    </message>
+    <message>
+        <message-key>books</message-key>
+        <message-value>Books</message-value>
+    </message>
+    <message>
+        <message-key>books-that-should-have-been-returned</message-key>
+        <message-value>Books that should have been returned</message-value>
+    </message>
+    <message>
+        <message-key>visitor-id</message-key>
+        <message-value>Visitor Name</message-value>
+    </message>
+    <message>
+        <message-key>book-author</message-key>
+        <message-value>Book Author</message-value>
+    </message>
+    <message>
+        <message-key>book-name</message-key>
+        <message-value>Book Name</message-value>
+    </message>
+    <message>
+        <message-key>book-year</message-key>
+        <message-value>Book Year</message-value>
+    </message>
+    <message>
+        <message-key>book-must-be-returned</message-key>
+        <message-value>Book Must Be Returned</message-value>
+    </message>
+    <message>
+        <message-key>book-status</message-key>
+        <message-value>Book Status</message-value>
+    </message>
+    <message>
+        <message-key>all-books</message-key>
+        <message-value>All Books</message-value>
+    </message>
+    <message>
+        <message-key>user-activity</message-key>
+        <message-value>User Active</message-value>
+    </message>
+    <message>
+        <message-key>birth-day</message-key>
+        <message-value>Birth Date</message-value>
+    </message>
+    <message>
+        <message-key>all-visitors</message-key>
+        <message-value>All visitors</message-value>
+    </message>
+    <message>
+        <message-key>active</message-key>
+        <message-value>true</message-value>
+    </message>
+    <message>
+        <message-key>not-active</message-key>
+        <message-value>false</message-value>
+    </message>
+    <message>
+        <message-key>users-id</message-key>
+        <message-value>Users ID</message-value>
+    </message>
+    <message>
+        <message-key>date-format-wrong</message-key>
+        <message-value>Wrong date,or format  of date,please change</message-value>
+    </message>
+    <message>
+        <message-key>give</message-key>
+        <message-value>Give</message-value>
+    </message>
+    <message>
+        <message-key>take</message-key>
+        <message-value>Take</message-value>
+    </message>
+    <message>
+        <message-key>issuing-books</message-key>
+        <message-value>Issuing Books</message-value>
+    </message>
+    <message>
+        <message-key>book-must-be-returned-after-days</message-key>
+        <message-value>Book Must Be Returned After Days:</message-value>
+    </message>
+    <message>
+        <message-key>username-or-userID-is-wrong</message-key>
+        <message-value>User name or user ID is wrong</message-value>
+    </message>
+    <message>
+        <message-key>book-days-for-return</message-key>
+        <message-value>Books must be returned from 0 to 99 days</message-value>
+    </message>
+    <message>
+        <message-key>something-went-wrong</message-key>
+        <message-value>Something went wrong!</message-value>
+    </message>
+    <message>
+        <message-key>email</message-key>
+        <message-value>Email</message-value>
+    </message>
+    <message>
+        <message-key>confirm-password</message-key>
+        <message-value>Confirm password</message-value>
+    </message>
+    <message>
+        <message-key>difference-passwords</message-key>
+        <message-value>Password and confirm password have different values, but must be same</message-value>
+    </message>
+    <message>
+        <message-key>login-already-exist</message-key>
+        <message-value>Visitor with this login already exist!</message-value>
+    </message>
+    <message>
+        <message-key>email-exist</message-key>
+        <message-value>Email already exists</message-value>
+    </message>
+    <message>
+        <message-key></message-key>
+        <message-value></message-value>
+    </message>
+</messages>

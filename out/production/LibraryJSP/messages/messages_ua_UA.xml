@@ -1,0 +1,266 @@
+<messages>
+    <message>
+        <message-key>was-deleted</message-key>
+        <message-value>Видалено</message-value>
+    </message>
+    <message>
+        <message-key>cannot-delete-connection-problem</message-key>
+        <message-value>Проблема зєднанння! Не можна видалити в даний момент.</message-value>
+    </message>
+    <message>
+        <message-key>name-or-password-is-wrong</message-key>
+        <message-value>Імя користувача або пароль невірний!</message-value>
+    </message>
+    <message>
+        <message-key>no-librarian-or-admin-found</message-key>
+        <message-value>Нічого не знайдено. Не існує адміністратора чи бібліотекара з ID :</message-value>
+    </message>
+    <message>
+        <message-key>failed-connection-to-create</message-key>
+        <message-value>Зєднання з базою данних перервано. Неможливо додати</message-value>
+    </message>
+    <message>
+        <message-key>login-already-exist</message-key>
+        <message-value>Хдось з даним логіном вже існуєб або введені данні хибні. Логін:</message-value>
+    </message>
+    <message>
+        <message-key>was-saved</message-key>
+        <message-value>Був збережений! Логін:</message-value>
+    </message>
+    <message>
+        <message-key>Admin</message-key>
+        <message-value>Адмін</message-value>
+    </message>
+    <message>
+        <message-key>all-libs-and-admins</message-key>
+        <message-value>Усі бібліотекарі та адміністратори:</message-value>
+    </message>
+    <message>
+        <message-key>ID</message-key>
+        <message-value>ID</message-value>
+    </message>
+    <message>
+        <message-key>Role</message-key>
+        <message-value>Роль</message-value>
+    </message>
+    <message>
+        <message-key>first-name</message-key>
+        <message-value>Імя</message-value>
+    </message>
+    <message>
+        <message-key>last-name</message-key>
+        <message-value>Прізвище</message-value>
+    </message>
+    <message>
+        <message-key>login</message-key>
+        <message-value>Логін</message-value>
+    </message>
+    <message>
+        <message-key>update</message-key>
+        <message-value>Змінити</message-value>
+    </message>
+    <message>
+        <message-key>delete</message-key>
+        <message-value>Видалити</message-value>
+    </message>
+    <message>
+        <message-key>previous</message-key>
+        <message-value>Попередня</message-value>
+    </message>
+    <message>
+        <message-key>next</message-key>
+        <message-value>Наступна</message-value>
+    </message>
+    <message>
+        <message-key>add</message-key>
+        <message-value>Додати</message-value>
+    </message>
+    <message>
+        <message-key>administrator</message-key>
+        <message-value>Адміністратор</message-value>
+    </message>
+    <message>
+        <message-key>librarian</message-key>
+        <message-value>Бібліотекар</message-value>
+    </message>
+    <message>
+        <message-key>confirm</message-key>
+        <message-value>Підтвердити</message-value>
+    </message>
+    <message>
+        <message-key>password</message-key>
+        <message-value>Пароль</message-value>
+    </message>
+    <message>
+        <message-key>cancel</message-key>
+        <message-value>Відмінити</message-value>
+    </message>
+    <message>
+        <message-key>change-user</message-key>
+        <message-value>Змінити користувача</message-value>
+    </message>
+    <message>
+        <message-key>back-to-previous-page</message-key>
+        <message-value>Повернутися на попередню сторінку</message-value>
+    </message>
+    <message>
+        <message-key>error-code</message-key>
+        <message-value>Код помилки</message-value>
+    </message>
+    <message>
+        <message-key>login-page</message-key>
+        <message-value>Сторінка входу</message-value>
+    </message>
+    <message>
+        <message-key>library-service</message-key>
+        <message-value>Сервіс бібліотеки</message-value>
+    </message>
+    <message>
+        <message-key>enter-login</message-key>
+        <message-value>Введіть логін</message-value>
+    </message>
+    <message>
+        <message-key>enter-password</message-key>
+        <message-value>Введіть пароль</message-value>
+    </message>
+    <message>
+        <message-key>log-in</message-key>
+        <message-value>Вхід</message-value>
+    </message>
+    <message>
+        <message-key>save-login</message-key>
+        <message-value>Зберегти логін</message-value>
+    </message>
+    <message>
+        <message-key>login-cannot-be-empty</message-key>
+        <message-value>Логін не може бути пустим!</message-value>
+    </message>
+    <message>
+        <message-key>logout</message-key>
+        <message-value>Вихід</message-value>
+    </message>
+    <message>
+        <message-key>hello</message-key>
+        <message-value>Привіт</message-value>
+    </message>
+    <message>
+        <message-key>visitors</message-key>
+        <message-value>Відвідувачі</message-value>
+    </message>
+    <message>
+        <message-key>books</message-key>
+        <message-value>Книги</message-value>
+    </message>
+    <message>
+        <message-key>books-that-should-have-been-returned</message-key>
+        <message-value>Книги котрі повинні бути повернуті</message-value>
+    </message>
+    <message>
+        <message-key>visitor-id</message-key>
+        <message-value>Імя відвідувача</message-value>
+    </message>
+    <message>
+        <message-key>book-author</message-key>
+        <message-value>Автор Книги</message-value>
+    </message>
+    <message>
+        <message-key>book-name</message-key>
+        <message-value>Назва книги</message-value>
+    </message>
+    <message>
+        <message-key>book-year</message-key>
+        <message-value>Рік книги</message-value>
+    </message>
+    <message>
+        <message-key>book-must-be-returned</message-key>
+        <message-value>Книга повинна бути повернута</message-value>
+    </message>
+    <message>
+        <message-key>book-status</message-key>
+        <message-value>Статус книги</message-value>
+    </message>
+    <message>
+        <message-key>all-books</message-key>
+        <message-value>Усі книги</message-value>
+    </message>
+    <message>
+        <message-key>user-activity</message-key>
+        <message-value>Активність користувача</message-value>
+    </message>
+    <message>
+        <message-key>birth-day</message-key>
+        <message-value>День Народження</message-value>
+    </message>
+    <message>
+        <message-key>all-visitors</message-key>
+        <message-value>Усі відвідувачі</message-value>
+    </message>
+    <message>
+        <message-key>active</message-key>
+        <message-value>так</message-value>
+    </message>
+    <message>
+        <message-key>not-active</message-key>
+        <message-value>ні</message-value>
+    </message>
+    <message>
+        <message-key>users-id</message-key>
+        <message-value>ID Користувача</message-value>
+    </message>
+    <message>
+        <message-key>date-format-wrong</message-key>
+        <message-value>Хибна дата або формат дати, змініть данні</message-value>
+    </message>
+    <message>
+        <message-key>give</message-key>
+        <message-value>Видати</message-value>
+    </message>
+    <message>
+        <message-key>take</message-key>
+        <message-value>Забрати</message-value>
+    </message>
+    <message>
+        <message-key>issuing-books</message-key>
+        <message-value>Видача книжок</message-value>
+    </message>
+    <message>
+        <message-key>book-must-be-returned-after-days</message-key>
+        <message-value> Книга повинна бути повернута через днів:</message-value>
+    </message>
+    <message>
+        <message-key>username-or-userID-is-wrong</message-key>
+        <message-value>імя користувача або ID хибні</message-value>
+    </message>
+    <message>
+        <message-key>book-days-for-return</message-key>
+        <message-value>Книга повинна бути повернута між  0 та 99 днями</message-value>
+    </message>
+    <message>
+        <message-key>something-went-wrong</message-key>
+        <message-value>Щось пішло не так!</message-value>
+    </message>
+    <message>
+        <message-key>email</message-key>
+        <message-value>Email</message-value>
+    </message>
+    <message>
+        <message-key>confirm-password</message-key>
+        <message-value>Підтвердження паролю</message-value>
+    </message>
+    <message>
+        <message-key>difference-passwords</message-key>
+        <message-value>Пароль та підтвердження паролю мають різні значення, проте понні бути однакові</message-value>
+    </message>
+    <message>
+        <message-key>login-already-exist</message-key>
+        <message-value>Відвідувач з таким логіном уже існує!</message-value>
+    </message>
+    <message>
+        <message-key>email-exist</message-key>
+        <message-value>Email вже існує!</message-value>
+    </message>
+    <message>
+        <message-key></message-key>
+        <message-value></message-value>
+    </message>
+</messages>

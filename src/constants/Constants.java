@@ -1,0 +1,50 @@
+package constants;
+
+public interface Constants {
+
+    int ZERO = 0;
+    int ONE = 1;
+    int TWO = 2;
+    int THREE = 3;
+    int FOUR = 4;
+    int FIVE = 5;
+    int SIX = 6;
+    int SEVEN = 7;
+    int EIGHT = 8;
+    int NINE = 9;
+    int TEN = 10;
+    int ELEVEN = 11;
+    int TVELVE = 12;
+    int THIRTEEN = 13;
+    int FOURTEEN = 14;
+    int FIFTEEN = 15;
+    int SIXTEEN = 16;
+    int MAX_DAYS_FOR_BOOK_GIVEN = 99;
+    String FIRST_NAME = "first name";
+    String LAST_NAME = "last name";
+    String LOGIN = "login";
+    String PASSWORD = "password";
+    String ROLE = "role";
+    String UPDATE = "update";
+    String DELETE = "delete";
+    String ADD = "ADD";
+    String AUTHENTICATION = "AUTHENTICATION";
+    String ACTION = "action";
+    String OPERATION = "operation";
+    String DATE = "date";
+    String ACTIVITY = "activity";
+    String USER_ID = "user id";
+    String BOOK_AUTHOR = "book author";
+    String BOOK_NAME = "book name";
+    String BOOK_YEAR = "book year";
+    String MUST_BE_RETURNED = "must be returned";
+    String FALSE = "false";
+    String TRUE = "true";
+    String GIVE = "give";
+    String TAKE = "take";
+    String NULL = "null";
+    String EMAIL = "email";
+    String COFIRM_PASSWORD = "confirm password";
+    String USER = "USER";
+    String BOOK = "book";
+}
